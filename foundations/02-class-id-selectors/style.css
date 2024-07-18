@@ -1,18 +1,18 @@
-p {
+.odd {
     background-color: #ffb6c1;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-.e-two {
+.two {
     color: #0000ff;
     font-size: 36px;
 }
 
-p.e-three, .e-four {
+.three {
     font-size: 24px;
 }
 
-.e-four {
+.four {
     background-color: #90ee90;
     font-weight: bold;
 }
